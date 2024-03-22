@@ -1,21 +1,7 @@
-title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
-PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
-Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
-Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
-Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;12.png
-Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+name;description;image
+Raoh; (ラオウ, Raō), also known by his alias Ken-Oh (拳王, The King of Fists), is one of the inheritors and practitioners of Hokuto Shinken. Unlike his brother Toki, who used his fist to heal the sick, or Kenshiro, who used his fist to protect the innocent, Raoh chose to become the most powerful martial artist of all time, and used his fist to become a mighty conqueror of the wasteland, subduing all people in his wake. Raoh is among the most fearsome combatants the wasteland has ever seen. He is rivalled only by Kenshiro, Toki (at his peak health), and Kaioh (whom prophecy claimed Raoh would ultimately defeat).;1.png
+Yuria;  (ユリア, Yuria) is a major character in most incarnations of the Hokuto no Ken metaseries and the main character of her own single-volume spin-off manga, Yuria Gaiden: Jibo no Hoshi by Akimi Kasai. She is first introduced as the missing fiancée of main protagonist Kenshirō who was taken away from him by a jealous rival.;2.png
+Jagi; (ジャギ) was the second youngest of the four Hokuto brothers, he was looked down on for his dirty tactics which demanded victory at any cost, such as relying on a shotgun or spitting needles. His desire to cheat was only rivaled by his contempt for Kenshiro, his younger adopted brother. Jagi believed that siblings must respect their elders and that it would be unforgivable for a younger brother to surpass him.;3.png
+Shin;  (シン) is the successor of Nanto Koshū Ken (南斗孤鷲拳, "South Dipper Lone Eagle Fist"), one of the martial art styles within the Nanto Rokusei Ken. He bears the destiny of the Star of Martyrdom (殉星 Junsei), who is destined to live and die for love.;4.png
+Souther; Souther is the sole successor of the Nanto Hōō Ken (南斗鳳凰拳, "South Dipper Phoenix Fist) style and one of the Nanto Roku Sei Ken. He bears the destiny of the Star of Leadership (将星 Shōsei), also known as the Polar Star (極星 Kyokusei) and Star of the Southern Cross (南十字星 Minami Jūji Sei). The Star of Leadership rules over the Nanto constellation and therefore none of the other Nanto successors can defeat him.;5.png
+Toki; Toki (トキ, Toki) is the second of the four Hokuto brothers, Toki is a pacifist who seeks to use Hokuto Shinken as a healing art. Toki's self-made technique of Hokuto Ujō Ken (北斗有情拳, "Big Dipper Humane Fist") is adept at both healing and destroying. When using this style, his adversaries experience intense ecstasy before their deaths, instead of horrifying pain. According to Kenshiro, Toki had the most elegant style of the four brothers and was the ideal successor to Hokuto Shinken before his illness.;6.png
