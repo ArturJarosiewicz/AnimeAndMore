@@ -9,7 +9,7 @@ st.set_page_config(page_title='Hokuto no Ken')
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image("images/ken.png")
+    st.image("images/hokuto/ken.png")
 
 with col2:
     st.title("Kenshirō")
@@ -26,4 +26,4 @@ st.subheader('If You are a fan you should know below characters')
 for index, row in df.iterrows():
     st.subheader(row['name'])
     st.info(row['description'])
-    st.image(f"images/{row['image']}")
+    st.image(f"images/hokuto/{row['image']}")
